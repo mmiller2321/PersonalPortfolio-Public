@@ -12,6 +12,7 @@
 * [Demo Videos](#demo-videos)
 * [Project Status](#project-status)
 * [Room for Improvement](#room-for-improvement)
+* [External Web Resources](#external-web-resources)
 * [Contact](#contact)
 * [License](#license)
 
@@ -104,14 +105,7 @@ To do:
 <!-- - Create a Three.js 3D or 2D animated background to be used on the home page. -->
 
 
-## Contact
-Created by [Micah Miller](https://github.com/mmiller2321) - feel free to contact me via the email at `mimiller13414@gmail.com` for addit!
-
-
-## License
-This project is open source and available under the [GNU General Public License v3.0](https://github.com/mmiller2321/PersonalPortfolio/blob/main/LICENSE).
-
-### External Website Resources
+### External Web Resources
  
 - Jira (Project & Issue Tracking)
 - Heroku (Cloud Deployment)
@@ -122,6 +116,14 @@ This project is open source and available under the [GNU General Public License 
 - MySQL Worbench 8.0 CE (Heroku JawsDB Database local connection)
 <!-- - Contact Form:  -->
 <!-- - Hire Me Form:  -->
+
+
+### Contact
+Created by [Micah Miller](https://github.com/mmiller2321) - feel free to contact me via the email at `mimiller13414@gmail.com` for addit!
+
+
+### License
+This project is open source and available under the [GNU General Public License v3.0](https://github.com/mmiller2321/PersonalPortfolio/blob/main/LICENSE).
 
 <!-- ### Heroku Deployments
 
