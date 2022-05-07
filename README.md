@@ -82,7 +82,7 @@ To do:
 - Create 2 more project pages (Project #2 and #4)
 - Create the Tech News page 
 - Implement the back-end of the Contact page
-- Create a Three.js 3D or 2D animated background to be used on the home page.
+<!-- - Create a Three.js 3D or 2D animated background to be used on the home page. -->
 
 
 ## Contact
