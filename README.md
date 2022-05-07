@@ -34,7 +34,8 @@
 <!-- - MySQL - version 5.7.24 -->
 
 ## Features
-- The user is able to view a default welcome page that displays a Three.js 3D background.
+<!-- - The user is able to view a default welcome page that displays a Three.js 3D background. -->
+- The user is able to view a default welcome page that displays a intro along with my profile picture.
 - Once the user registers or logins you are prompted with a similar homepage.
 - Login/Registration validates the data entered and checks if the data can be found in the database.
 - The user can view all projects that are displayed onto the projects page.
@@ -43,33 +44,26 @@
 ## Deployment Links
 - Local Deployment: http://localhost:8080
 - Heroku Cloud: [micahmiller.herokuapp.com](https://micahmiller.herokuapp.com)
-<!-- - Azure Cloud:  -->
 
 
 ## Screenshots
 
-Go to `https://personalportfoliobeta-micahmiller.bss.design/` to view the home page of my Portfolio.
+Go to `https://micahmiller.herokuapp.com` to view the home page of my Portfolio.
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/40038829/151748090-73109f84-e880-4f39-87d2-f836c37a4392.png" width=100% height=100%>
-  <img src="https://user-images.githubusercontent.com/40038829/153796382-d8d894bb-e5cd-44e7-8a12-35fc10cc8d62.png" width=100% height=100%>
+  <img src="https://user-images.githubusercontent.com/40038829/167271119-351502c8-9d12-4c93-852d-e634a87e25e7.png" width=100% height=100%>
 </p>
 
 
-<!--## Demo Videos
+## Demo Videos
 - Final Application Video: 
     <p align="center">
       [LOOM URL LINK GOES HERE]
     </p>
--->
 
-<!-- ## Setup (Needs to be updated)
-What are the project requirements/dependencies? Where are they listed? A requirements.txt or a Pipfile.lock file perhaps? Where is it located?
-
-Proceed to describe how to install / setup one's local environment / get started with the project. -->
 
 
 ## Project Status
-Project development is: _in-progress_ - This project is in the project of being built up. Majority of projects on the project grid have been added/finalized. The Contact/hire me forms close to being complete. All UI designs are complete.
+Project development is: _in-progress_ - The project is in the progress of being built up and finalized. Majority of the projects on the project grid have been added/finalized except the final 2 projects. The Contact/hire me forms are completed with little fixing up to go. All UI designs are complete.
 
 Project deployment is: _in-progress_ - Project is cloud deployed but running into database connection issues with MySQL Workbench.
 
@@ -84,12 +78,11 @@ Room for improvement:
 
 
 To do:
-- Create a Three.js 3D or 2D animated background to be used on the home page.
 - Refactor Experience page (update hobbies)
 - Create 2 more project pages (Project #2 and #4)
 - Create the Tech News page 
 - Implement the back-end of the Contact page
-- Create a simple Chatbot for the website
+- Create a Three.js 3D or 2D animated background to be used on the home page.
 
 
 ## Contact
@@ -103,8 +96,10 @@ This project is open source and available under the [GNU General Public License 
  
 - Jira (Project & Issue Tracking)
 - Heroku (Cloud Deployment)
+- GitHub (Cloud Project Repository)
 - Uptime Robot (Website Monitoring)
 - Loggly (Cloud Logging)
 - Draw.io (Design diagrams like UML, ER, Wireframes, etc)
+- MySQL Worbench 8.0 CE (Heroku JawsDB Database local connection)
 <!-- - Contact Form:  -->
 <!-- - Hire Me Form:  -->
