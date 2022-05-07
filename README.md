@@ -86,7 +86,7 @@ To do:
 
 
 ## Contact
-Created by [Micah Miller](https://github.com/mmiller2321) - feel free to contact me via the email listed below GitHub profile details!
+Created by [Micah Miller](https://github.com/mmiller2321) - feel free to contact me via the email at `mimiller13414@gmail.com` for addit!
 
 
 ## License
