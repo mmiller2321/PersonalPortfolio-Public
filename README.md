@@ -39,7 +39,7 @@
     - 
 - What outstanding issues do you have? 
     - 
-- **This site MUST be compelling and complete enough to use in an Interview!**
+- _This site MUST be compelling and complete enough to use in an Interview_!
 
 
 ## Technologies Used
