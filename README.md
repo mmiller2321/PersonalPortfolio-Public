@@ -7,7 +7,8 @@
 * [Requirements](https://github.com/mmiller2321/PersonalPortfolio-Public/blob/main/README.md#requirements)
     - [Functional Requirements](https://github.com/mmiller2321/PersonalPortfolio-Public/blob/main/README.md#functional-requirements)
     - [Non-Functional Requirements](https://github.com/mmiller2321/PersonalPortfolio-Public/blob/main/README.md#non-functional-requirements)
-* [Technologies & Tools](https://github.com/mmiller2321/PersonalPortfolio-Public/blob/main/README.md#technologies--tools)
+* [Technologies ](https://github.com/mmiller2321/PersonalPortfolio-Public/blob/main/README.md#technologies)
+* [Tools](https://github.com/mmiller2321/PersonalPortfolio-Public/blob/main/README.md#tools)
 * [Technical Approach](https://github.com/mmiller2321/PersonalPortfolio-Public/blob/main/README.md#technical-approach)
 * [Risks & Challenges](https://github.com/mmiller2321/PersonalPortfolio-Public/blob/main/README.md#risks--challenges)
 * [Issues](https://github.com/mmiller2321/PersonalPortfolio-Public/blob/main/README.md#issues)
@@ -27,12 +28,27 @@
 - 
 
 
-## Technologies & Tools
-- 
+## Technologies
+- Java SE - version 15
+- Java Spring Boot Framework - version 2.5.5
+- Thymeleaf - version 3.0
+- MongoDB Compass - version 1.30.1
+- Bootstrap - version 5.1
+- Jquery - version 3.6.0
+<!-- - Three.js - Latest version (MAY REMOVE BEFORE FINAL RELEASE) -->
+
+## Tools
+- Jira (Project & Issue Tracking)
+- Heroku (Cloud Deployment)
+- GitHub (Cloud Project Repository)
+- Uptime Robot (Website Monitoring)
+- Loggly (Cloud Logging)
+- Draw.io (Design diagrams like UML, ER, Wireframes, etc)
+- MySQL Worbench 8.0 CE (Heroku JawsDB Database local connection)
 
 ## Cloud Deployment
 
-Front-End 
+- Utilized the Heroku Build Pipeline along with both the Heroku CLI and the built-in Github integration in Heroku for cloud deployment. 
 
 
 Back-End
