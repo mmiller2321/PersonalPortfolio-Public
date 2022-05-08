@@ -10,7 +10,8 @@
 * [Technologies & Tools](#technologies-&-tools)
 * [Technical Approach](#technical-approach)
 * [Risks & Challenges](#risks-&-challenges)
-* [Issues](#issues)
+* [Issues](https://github.com/mmiller2321/PersonalPortfolio-Public/blob/main/README.md#issues)
+* [Contacts](https://github.com/goktan507/SofanaGPS/blob/main/README.md#contacts)
 
 
 ## Introduction
