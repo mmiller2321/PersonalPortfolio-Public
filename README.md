@@ -73,31 +73,35 @@ What problem were you solving and why were you solving this problem?
 <!-- Project Flowchart -->
 
 <p align="center">
-    <b>Final Flowchart</b>
+    <b>Final Flowchart</b><br/>
   <img src="https://user-images.githubusercontent.com/40038829/167280440-6740a36e-a662-4435-b566-06a4569ba07d.png" width=100% height=100%>
 </p>
 
 <p align="center">
-  <b>Final Sitemap</b>
+  <b>Final Sitemap</b><br/>
   <img src="https://user-images.githubusercontent.com/40038829/167280283-e9f370aa-b557-4506-a5d8-c8259acd62ef.png" width=100% height=100%>
 </p>
 
 <p align="center">
-  <b>Final UML Class Diagram</b>
+  <b>Final UML Class Diagram</b><br/>
   <img src="https://user-images.githubusercontent.com/40038829/167280470-ac0915f7-b3bb-4646-a93a-763781250439.png" width=100% height=100%>
 </p>
 
 <p align="center">
-  <b>Final Wireframe Diagrams</b>
-  <img src="https://user-images.githubusercontent.com/40038829/167280376-f3bd9454-7983-4bbc-8445-51dbe02ba9a3.png" width=80% height=80%>
-  <img src="https://user-images.githubusercontent.com/40038829/167280389-abd90d2c-c973-4481-b652-5c2487e9f6a8.png" width=80% height=80%>
+  <b>Final Wireframe Diagrams</b><br/>
+  <img src="https://user-images.githubusercontent.com/40038829/167280376-f3bd9454-7983-4bbc-8445-51dbe02ba9a3.png" width=100% height=100%>
+  <img src="https://user-images.githubusercontent.com/40038829/167280389-abd90d2c-c973-4481-b652-5c2487e9f6a8.png" width=100% height=100%>
 </p>
 
-**Bolded text**
+<p align="center">
+  <b>Final ER Diagram</b><br/>
+  <img src="https://user-images.githubusercontent.com/40038829/167280709-33a7ed99-2f54-4767-b612-08460f9da85f.png" width=65% height=65%>
+</p>
 
-__Also bolded text__
-
-
+<p align="center">
+  <b>Final Logical Diagram</b><br/>
+  <img src="https://user-images.githubusercontent.com/40038829/167280640-f14a74fe-9167-4f6e-bc87-3441058d78f8.png" width=100% height=100%>
+</p>
 
 ## Risks & Challenges
 
