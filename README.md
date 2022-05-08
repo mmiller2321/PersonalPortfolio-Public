@@ -4,10 +4,49 @@
 
 ## Table of Contents
 * [Introduction](#intro)
-* [Requirements](#questions)
-    - [Requirements](#questions)
-* [Technologies Used](#technologies-used)
-* [Features](#features)
-* [Deployment Links](#deployment-links)
+* [Requirements](#requirements)
+    - [Functional Requirements](#functional-requirements)
+    - [Non-Functional Requirements](#non-functional-requirements)
+* [Technologies & Tools](#tech-and-tools)
+* [Technical Approach](#technical-approach)
+* [Risks & Challenges](#risks-and-challenges)
+* [Issues](#issues)
+
+
+## Introduction
+
+
+
+# Requirements
+
+## Functional Requirements
+- 
+
+
+## Non Functional Requirements
+- 
+
+
+## Technologies & Tools
+- 
+
+## Cloud Deployment
+
+Front-End 
+
+
+Back-End
+
+
+## Technical Approach
+- 
+
+## Risks & Challenges
+- 
+
+## Issues
+- 
+
+
 
 
