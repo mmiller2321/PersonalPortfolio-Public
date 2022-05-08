@@ -7,7 +7,7 @@
 * [Requirements](https://github.com/mmiller2321/PersonalPortfolio-Public/blob/main/README.md#requirements)
     - [Functional Requirements](https://github.com/mmiller2321/PersonalPortfolio-Public/blob/main/README.md#functional-requirements)
     - [Non-Functional Requirements](https://github.com/mmiller2321/PersonalPortfolio-Public/blob/main/README.md#non-functional-requirements)
-* [Technologies & Tools](https://github.com/mmiller2321/PersonalPortfolio-Public/blob/main/README.md#technologies-&-tools)
+* [Technologies & Tools](https://github.com/mmiller2321/PersonalPortfolio-Public/blob/main/README.md#technologies--tools)
 * [Technical Approach](https://github.com/mmiller2321/PersonalPortfolio-Public/blob/main/README.md#technical-approach)
 * [Risks & Challenges](https://github.com/mmiller2321/PersonalPortfolio-Public/blob/main/README.md#risks--challenges)
 * [Issues](https://github.com/mmiller2321/PersonalPortfolio-Public/blob/main/README.md#issues)
