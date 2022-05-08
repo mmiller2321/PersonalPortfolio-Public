@@ -3,17 +3,16 @@
 > Live demo [_here_](https://micahmiller.herokuapp.com). <!-- If you have the project hosted somewhere, include the link here. -->
 
 ## Table of Contents
-* [Introduction](#introduction)
-* [Requirements](#requirements)
-    - [Functional Requirements](#functional-requirements)
-    - [Non-Functional Requirements](#non-functional-requirements)
-* [Technologies & Tools](#technologies-&-tools)
-* [Technical Approach](#technical-approach)
-* [Risks & Challenges](#risks-&-challenges)
+* [Introduction](https://github.com/mmiller2321/PersonalPortfolio-Public/blob/main/README.md#introduction)
+* [Requirements](https://github.com/mmiller2321/PersonalPortfolio-Public/blob/main/README.md#requirements)
+    - [Functional Requirements](https://github.com/mmiller2321/PersonalPortfolio-Public/blob/main/README.md#functional-requirements)
+    - [Non-Functional Requirements](https://github.com/mmiller2321/PersonalPortfolio-Public/blob/main/README.md#non-functional-requirements)
+* [Technologies & Tools](https://github.com/mmiller2321/PersonalPortfolio-Public/blob/main/README.md#technologies-&-tools)
+* [Technical Approach](https://github.com/mmiller2321/PersonalPortfolio-Public/blob/main/README.md#technical-approach)
+* [Risks & Challenges](https://github.com/mmiller2321/PersonalPortfolio-Public/blob/main/README.md#risks-&-challenges)
 * [Issues](https://github.com/mmiller2321/PersonalPortfolio-Public/blob/main/README.md#issues)
-* [Contacts](https://github.com/goktan507/SofanaGPS/blob/main/README.md#contacts)
 
-
+https://github.com/mmiller2321/PersonalPortfolio-Public/blob/main/README.md#issues
 ## Introduction
 
 
