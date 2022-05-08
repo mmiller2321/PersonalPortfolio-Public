@@ -17,7 +17,7 @@
 
 ## Introduction
 
-After graduating from college with your degree most students have not created a portfolio website that showcases their talents and my way to solve this is to create a dynamic portfolio website demonstrating what I can create on a professional website. Once closer to graduation and I'm applying to jobs I'm going to add this portfolio website along with my LinkedIn, Linktree, and my Github where it asks for my websites to show recruiters that I am capable to be a software engineer on their team. Creating a portfolio website helps to show recruiters and tech professionals my potential as a software developer tell I'm able to get relevant work experience. 
+- After graduating from college with your degree most students have not created a portfolio website that showcases their talents and my way to solve this is to create a dynamic portfolio website demonstrating what I can create on a professional website. Once closer to graduation and I'm applying to jobs I'm going to add this portfolio website along with my LinkedIn, Linktree, and my Github where it asks for my websites to show recruiters that I am capable to be a software engineer on their team. Creating a portfolio website helps to show recruiters and tech professionals my potential as a software developer tell I'm able to get relevant work experience. 
 
 # Requirements
 
@@ -41,7 +41,7 @@ After graduating from college with your degree most students have not created a 
 
 ## New Technologies
 
-I decided to continue learning about MongoDB by using it within my project for the database to further my knowledge behind how the NoSQL database is used within projects and to figure out why MongoDB is growing in popularity for newer projects. I also, took a datatabase course for SQL and NoSQL and wanted to use my knowledge from that course along with my Java Spring Boot class to integrate it into one project. 
+- I decided to continue learning about MongoDB by using it within my project for the database to further my knowledge behind how the NoSQL database is used within projects and to figure out why MongoDB is growing in popularity for newer projects. I also, took a datatabase course for SQL and NoSQL and wanted to use my knowledge from that course along with my Java Spring Boot class to integrate it into one project. 
 
 ## Technologies
 
@@ -77,7 +77,7 @@ I decided to continue learning about MongoDB by using it within my project for t
 
 ## Technical Approach
 
-Began the Java Spring project with implementing login and registration on the website so we can focus on the dynamic pages. Once the project has been successfully connected with the MongoDB database I will setup cloud deployment with the Heroku Cloud to get the project cloud deployed. Once the user is logged in successfully redirect the user to a blog page with the ability to comment on my blog post. Worked with the Java API for the contact and hire me form so once data is submitted successfully send me an email. If I had some more time the next page I'd like to add a technology news page that retrieves articles from a tech news website and pastes it onto a timeline page. May use the Google API for grabbing the news articles or some other third party API. Added a chatbot to the website from a third party to ask the viewer if they want any assistance redirecting to a specific webpage. Created project pages that were finalized to be added as projects to my portfolio project. 
+- Began the Java Spring project with implementing login and registration on the website so we can focus on the dynamic pages. Once the project has been successfully connected with the MongoDB database I will setup cloud deployment with the Heroku Cloud to get the project cloud deployed. Once the user is logged in successfully redirect the user to a blog page with the ability to comment on my blog post. Worked with the Java API for the contact and hire me form so once data is submitted successfully send me an email. If I had some more time the next page I'd like to add a technology news page that retrieves articles from a tech news website and pastes it onto a timeline page. May use the Google API for grabbing the news articles or some other third party API. Added a chatbot to the website from a third party to ask the viewer if they want any assistance redirecting to a specific webpage. Created project pages that were finalized to be added as projects to my portfolio project. 
 
 <p align="center">
     <b>Final Flowchart</b><br/>
