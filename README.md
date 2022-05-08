@@ -7,9 +7,9 @@
 * [Requirements](#requirements)
     - [Functional Requirements](#functional-requirements)
     - [Non-Functional Requirements](#non-functional-requirements)
-* [Technologies & Tools](#tech-and-tools)
+* [Technologies & Tools](#technologies-&-tools)
 * [Technical Approach](#technical-approach)
-* [Risks & Challenges](#risks-and-challenges)
+* [Risks & Challenges](#risks-&-challenges)
 * [Issues](#issues)
 
 
