@@ -70,11 +70,11 @@ What problem were you solving and why were you solving this problem?
 
 - Began the Java Spring project with implementing login and registration on the website so we can focus on the dynamic pages. Once the project has been successfully connected with the MongoDB database I will setup cloud deployment with the Heroku Cloud to get the project cloud deployed. Once the user is logged in successfully redirect the user to a blog page with the ability to comment on my blog post. Worked with the Java API for the contact and hire me form so once data is submitted successfully send me an email. If I had some more time the next page I'd like to add a technology news page that retrieves articles from a tech news website and pastes it onto a timeline page. May use the Google API for grabbing the news articles or some other third party API. Added a chatbot to the website from a third party to ask the viewer if they want any assistance redirecting to a specific webpage. Created project pages that were finalized to be added as projects to my portfolio project. 
 
-Project Flowchart
+<!-- Project Flowchart -->
 
 <p align="center">
-  Project Flowchart
-  <img src="https://user-images.githubusercontent.com/40038829/167280027-f57021af-7564-47cd-9e3c-c99dbdf7476a.png" width=100% height=100%>
+  **Project Flowchart**
+  <img src="https://user-images.githubusercontent.com/40038829/167280099-013f6ca0-3b44-4d86-b3b7-5491971ed10e.png" width=100% height=100%>
 </p>
 
 
