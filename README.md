@@ -17,18 +17,27 @@
 
 ## Introduction
 
-What problem were you solving and why were you solving this problem?
-
+- After graduating from college with your degree most students have not created a portfolio website that showcases their talents and my way to solve this is to create a dynamic portfolio website demonstrating what I can create on a professional website. Once closer to graduation and I'm applying to jobs I'm going to add this portfolio website along with my LinkedIn, Linktree, and my Github where it asks for my websites to show recruiters that I am capable to be a software engineer on their team. Creating a portfolio website helps to show recruiters and tech professionals my potential as a software developer tell I'm able to get relevant work experience. 
 
 # Requirements
 
 ## Functional Requirements
-- 
 
+- Registration
+- Login
+- Authentication
+- Work Experience
+- Projects
+- Contact & Hire Me forms
+- Blog
+- Tech News
 
 ## Non Functional Requirements
-- 
 
+- Responsive (Responsiveness across web to mobile)
+- High Availability
+- Security (oAuth Authentication)
+- Cloud Database
 
 ## New Technologies
 
@@ -70,8 +79,6 @@ What problem were you solving and why were you solving this problem?
 
 - Began the Java Spring project with implementing login and registration on the website so we can focus on the dynamic pages. Once the project has been successfully connected with the MongoDB database I will setup cloud deployment with the Heroku Cloud to get the project cloud deployed. Once the user is logged in successfully redirect the user to a blog page with the ability to comment on my blog post. Worked with the Java API for the contact and hire me form so once data is submitted successfully send me an email. If I had some more time the next page I'd like to add a technology news page that retrieves articles from a tech news website and pastes it onto a timeline page. May use the Google API for grabbing the news articles or some other third party API. Added a chatbot to the website from a third party to ask the viewer if they want any assistance redirecting to a specific webpage. Created project pages that were finalized to be added as projects to my portfolio project. 
 
-<!-- Project Flowchart -->
-
 <p align="center">
     <b>Final Flowchart</b><br/>
   <img src="https://user-images.githubusercontent.com/40038829/167280440-6740a36e-a662-4435-b566-06a4569ba07d.png" width=100% height=100%>
@@ -108,9 +115,15 @@ What problem were you solving and why were you solving this problem?
 - Had 5 classes this Spring semester and normally has 4 which made it tough to focus on this project along with my other projects in my other classes.
 - Time management acrossed all classes and balancing the course work to succeed in each. 
 - One Challenge I had was fixing the routing issues throughout the project with the use of a `sitemap.xml` file to add the routes alongside adding them to the appropriate controllers.
+- Throughout Senior Project 1 & 2 I used Jira Software to keep track of issues along with keeping track of my status for each task I assigned to each Milestone. 
+- I made sure to frequently push my code with git to Github to create code redundancy in case my local project became corrupted or I needed to backtrack a commit that broke my Cloud deployment. 
+- For cloud redundancey I could have deployed my project to Azure as my secondary cloud platform in case issues arise with the Heroku cloud.
 
 ## Issues
 
 - Ran into a Registration/Login database connection issue that took awhile to solve tell I decided to switch from a MySQL database to a MondoDB database. 
 - Had some problems with integrating the Bootstrap studio design (HTML, CSS, JS) into the Java project through the use of Thymeleaf layouts and modifying them to support the bootstrap design. 
+- On April 15, 2022 Heroku had a security breach of Github private repo that allowed hackers to copy private repositories. This security breach made it difficult to deploy the latest version of the project to Heroku. 
 
+### Contact
+Created by [Micah Miller](https://github.com/mmiller2321) - feel free to contact me via the email at `mimiller13414@gmail.com` for additional information!
