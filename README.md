@@ -127,4 +127,4 @@
 
 ### Contact
 
-- Created by [Micah Miller](https://github.com/mmiller2321) - feel free to contact me via the email at `mimiller13414@gmail.com` for additional information!
+Created by [Micah Miller](https://github.com/mmiller2321) - feel free to contact me via the email at `mimiller13414@gmail.com` for additional information!
