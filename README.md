@@ -12,7 +12,7 @@
 * [Risks & Challenges](https://github.com/mmiller2321/PersonalPortfolio-Public/blob/main/README.md#risks--challenges)
 * [Issues](https://github.com/mmiller2321/PersonalPortfolio-Public/blob/main/README.md#issues)
 
-https://github.com/mmiller2321/PersonalPortfolio-Public/blob/main/README.md#issues
+
 ## Introduction
 
 
