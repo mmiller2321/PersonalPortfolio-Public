@@ -43,13 +43,14 @@
 - GitHub (Cloud Project Repository)
 - Uptime Robot (Website Monitoring)
 - Loggly (Cloud Logging)
-- Draw.io (Design diagrams like UML, ER, Wireframes, etc)
+- Draw.io (Design diagrams: UML, ER, Wireframes, etc)
 - MySQL Worbench 8.0 CE (Heroku JawsDB Database local connection)
 
 ## Cloud Deployment
 
 - Utilized the Heroku Build Pipeline along with both the Heroku CLI and the built-in Github integration in Heroku for cloud deployment. 
-
+- Used CI/CD with Github and Heroku for automatic build deployments after a git commit was executed. 
+- Code was frequently pushed/synced with Github after any changes and after each coding session to keep the cloud repo in Github up to date.
 
 Back-End
 
