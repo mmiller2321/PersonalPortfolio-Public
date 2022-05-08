@@ -126,4 +126,5 @@
 - On April 15, 2022 Heroku had a security breach of Github private repo that allowed hackers to copy private repositories. This security breach made it difficult to deploy the latest version of the project to Heroku. 
 
 ### Contact
+
 Created by [Micah Miller](https://github.com/mmiller2321) - feel free to contact me via the email at `mimiller13414@gmail.com` for additional information!
