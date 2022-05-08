@@ -3,7 +3,7 @@
 > Live demo [_here_](https://micahmiller.herokuapp.com). <!-- If you have the project hosted somewhere, include the link here. -->
 
 ## Table of Contents
-* [Introduction](#intro)
+* [Introduction](#introduction)
 * [Requirements](#requirements)
     - [Functional Requirements](#functional-requirements)
     - [Non-Functional Requirements](#non-functional-requirements)
