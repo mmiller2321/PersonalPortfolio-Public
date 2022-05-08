@@ -73,7 +73,7 @@ What problem were you solving and why were you solving this problem?
 <!-- Project Flowchart -->
 
 <p align="center">
-  **Final Flowchart**
+    <b>Final Flowchart</b>
   <img src="https://user-images.githubusercontent.com/40038829/167280440-6740a36e-a662-4435-b566-06a4569ba07d.png" width=100% height=100%>
 </p>
 
@@ -89,8 +89,8 @@ What problem were you solving and why were you solving this problem?
 
 <p align="center">
   <b>Final Wireframe Diagrams</b>
-  <img src="https://user-images.githubusercontent.com/40038829/167280376-f3bd9454-7983-4bbc-8445-51dbe02ba9a3.png" width=100% height=100%>
-  <img src="https://user-images.githubusercontent.com/40038829/167280389-abd90d2c-c973-4481-b652-5c2487e9f6a8.png" width=100% height=100%>
+  <img src="https://user-images.githubusercontent.com/40038829/167280376-f3bd9454-7983-4bbc-8445-51dbe02ba9a3.png" width=80% height=80%>
+  <img src="https://user-images.githubusercontent.com/40038829/167280389-abd90d2c-c973-4481-b652-5c2487e9f6a8.png" width=80% height=80%>
 </p>
 
 **Bolded text**
