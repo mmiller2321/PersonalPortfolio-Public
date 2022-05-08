@@ -78,22 +78,24 @@ What problem were you solving and why were you solving this problem?
 </p>
 
 <p align="center">
-  **Final Sitemap**
+  <b>Final Sitemap</b>
   <img src="https://user-images.githubusercontent.com/40038829/167280283-e9f370aa-b557-4506-a5d8-c8259acd62ef.png" width=100% height=100%>
 </p>
 
 <p align="center">
-  **Final UML Class Diagram**
+  <b>Final UML Class Diagram</b>
   <img src="https://user-images.githubusercontent.com/40038829/167280470-ac0915f7-b3bb-4646-a93a-763781250439.png" width=100% height=100%>
 </p>
 
 <p align="center">
-  **Final Wireframe Diagrams**
+  <b>Final Wireframe Diagrams</b>
   <img src="https://user-images.githubusercontent.com/40038829/167280376-f3bd9454-7983-4bbc-8445-51dbe02ba9a3.png" width=100% height=100%>
   <img src="https://user-images.githubusercontent.com/40038829/167280389-abd90d2c-c973-4481-b652-5c2487e9f6a8.png" width=100% height=100%>
 </p>
 
+**Bolded text**
 
+__Also bolded text__
 
 
 
