@@ -74,7 +74,7 @@ What problem were you solving and why were you solving this problem?
 
 <p align="center">
   **Final Flowchart**
-  <img src="https://user-images.githubusercontent.com/40038829/167280196-cfd54f08-74e4-4b09-8f7f-5344ab7e5a5f.png" width=100% height=100%>
+  <img src="https://user-images.githubusercontent.com/40038829/167280440-6740a36e-a662-4435-b566-06a4569ba07d.png" width=100% height=100%>
 </p>
 
 <p align="center">
@@ -84,7 +84,7 @@ What problem were you solving and why were you solving this problem?
 
 <p align="center">
   **Final UML Class Diagram**
-  <img src="https://user-images.githubusercontent.com/40038829/167280254-95c9dfce-abbd-4631-8846-4be239290689.png" width=100% height=100%>
+  <img src="https://user-images.githubusercontent.com/40038829/167280470-ac0915f7-b3bb-4646-a93a-763781250439.png" width=100% height=100%>
 </p>
 
 <p align="center">
