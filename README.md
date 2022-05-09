@@ -17,7 +17,7 @@
 
 ## Introduction
 
-- After graduating from college with a degree most students have not created a portfolio website that showcases their talents and my way to solve this is to create a dynamic portfolio website demonstrating what I can create on a professional website. Once closer to graduation and I'm applying to jobs I'm going to add this portfolio website along with my LinkedIn, Linktree, and my Github where it asks for my websites to show recruiters that I am capable to be a software engineer on their team. Creating a portfolio website helps to show recruiters and tech professionals my potential as a software developer tell I'm able to get relevant work experience. 
+- After graduating from college with a degree most students have not created a portfolio website that showcases their talents and my way to solve this is to create a dynamic portfolio website demonstrating what I can create on a professional website. Once closer to graduation and I'm applying to jobs I'm going to add this portfolio website along with my LinkedIn, Linktree, and my Github where it asks for my websites to show recruiters that I am capable to be a software engineer on their team. Creating a portfolio website helps to show recruiters and tech professionals my potential as a software developer tell I'm able to get relevant work experience. Demo Video [_here_](https://youtu.be/Zj645RtFyog).
 
 # Requirements
 
